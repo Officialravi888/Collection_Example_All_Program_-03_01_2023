@@ -1,0 +1,45 @@
+addFirst() - Adds the specified element at the beginning of the deque. Throws an exception if the deque is full.
+addLast() - Adds the specified element at the end of the deque. Throws an exception if the deque is full.
+offerFirst() - Adds the specified element at the beginning of the deque. Returns false if the deque is full.
+offerLast() - Adds the specified element at the end of the deque. Returns false if the deque is full.
+getFirst() - Returns the first element of the deque. Throws an exception if the deque is empty.
+getLast() - Returns the last element of the deque. Throws an exception if the deque is empty.
+peekFirst() - Returns the first element of the deque. Returns null if the deque is empty.
+peekLast() - Returns the last element of the deque. Returns null if the deque is empty.
+removeFirst() - Returns and removes the first element of the deque. Throws an exception if the deque is empty.
+removeLast() - Returns and removes the last element of the deque. Throws an exception if the deque is empty.
+pollFirst() - Returns and removes the first element of the deque. Returns null if the deque is empty.
+pollLast() - Returns and removes the last element of the deque. Returns null if the deque is empty.
+
+
+
+
+Insert Elements to Deque
+1. Add elements using add(), addFirst() and addLast()
+
+add() - inserts the specified element at the end of the array deque
+addFirst() - inserts the specified element at the beginning of the array deque
+addLast() - inserts the specified at the end of the array deque (equivalent to add())
+
+2. Insert elements using offer(), offerFirst() and offerLast()
+
+offer() - inserts the specified element at the end of the array deque
+offerFirst() - inserts the specified element at the beginning of the array deque
+offerLast() - inserts the specified element at the end of the array deque
+
+Access ArrayDeque Elements
+1. Access elements using getFirst() and getLast()
+
+getFirst() - returns the first element of the array deque
+getLast() - returns the last element of the array deque
+
+
+2. Access elements using peek(), peekFirst() and peekLast() method
+
+peek() - returns the first element of the array deque
+peekFirst() - returns the first element of the array deque (equivalent to peek())
+peekLast() - returns the last element of the array deque
+
+Version 6---2 week
+4.x
+5.x--------start

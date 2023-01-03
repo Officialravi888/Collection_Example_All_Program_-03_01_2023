@@ -1,0 +1,16 @@
+Methods of Java LinkedList
+LinkedList provides various methods that allow us to perform different operations in linked lists.
+We will look at four commonly used LinkedList Operators in this tutorial:
+
+Add elements
+Access elements
+Change elements
+Remove elements
+
+Other Methods
+Methods	Description
+contains()	checks if the LinkedList contains the element
+indexOf()	returns the index of the first occurrence of the element
+lastIndexOf()	returns the index of the last occurrence of the element
+clear()	removes all the elements of the LinkedList
+iterator()	returns an iterator to iterate over LinkedList

@@ -1,0 +1,11 @@
+Remove PriorityQueue Elements
+remove() - removes the specified element from the queue
+poll() - returns and removes the head of the queue
+
+
+Other PriorityQueue Methods
+Methods	Descriptions
+contains(element)	Searches the priority queue for the specified element. If the element is found,
+it returns true, if not it returns false.
+size()	Returns the length of the priority queue.
+toArray()	Converts a priority queue to an array and returns it.

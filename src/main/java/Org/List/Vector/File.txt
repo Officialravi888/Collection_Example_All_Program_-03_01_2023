@@ -1,0 +1,17 @@
+Add Elements to Vector
+add(element) - adds an element to vectors
+add(index, element) - adds an element to the specified position
+addAll(vector) - adds all elements of a vector to another vector
+
+Remove Vector Elements
+remove(index) - removes an element from specified position
+removeAll() - removes all the elements
+clear() - removes all elements. It is more efficient than removeAll()
+
+Others Vector Methods
+Methods	Descriptions
+set()	changes an element of the vector
+size()	returns the size of the vector
+toArray()	converts the vector into an array
+toString()	converts the vector into a String
+contains()	searches the vector for specified element and returns a boolean result
